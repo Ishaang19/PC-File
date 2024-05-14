@@ -12,6 +12,5 @@ int main()
     printf("The difference of the two numbers is: %f\n", N1 - N2);
     printf("The product of the two numbers is: %f\n", N1 * N2);
     printf("The quotient of the two numbers is: %f\n", N1 / N2);
-    printf("By Ishaan Garg \n AIML-A\n");
     return 0;
 }
